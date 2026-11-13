@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://ygtozr.github.io/fadein-iptv/demo-epg.xml"
 #EXTINF:-1 tvg-type="live" tvg-id="demo.live" group-title="Demo",Live Test 1 (Unified Streaming)
 https://demo.unified-streaming.com/k8s/live/stable/live.isml/.m3u8
 #EXTINF:-1 tvg-type="live" tvg-id="demo.live2" group-title="Demo",Live Test 2 (Unified Streaming)
@@ -11,3 +11,7 @@ https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_exam
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
 #EXTINF:-1 tvg-type="movie" group-title="Apple Samples",Apple BipBop 4x3
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
+#EXTINF:-1 tvg-type="series" group-title="Open Movies (CC BY, Blender Foundation)",Open Movie Demo · Episode 1 · Big Buck Bunny
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-type="series" group-title="Open Movies (CC BY, Blender Foundation)",Open Movie Demo · Episode 2 · Tears of Steel
+https://test-streams.mux.dev/tos_ismc/main.m3u8
